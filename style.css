@@ -1,0 +1,59 @@
+*{
+    box-sizing:border-box ;
+    
+}
+body{
+    background-color: rgb(225, 223, 223);
+
+}
+
+div{
+    width: 378px;
+    height: 489px;
+    border: 1px solid;
+    border-radius: 10px;
+    margin-top: 131px;
+    margin-left: 700px;
+    border-color:#f4b4b47e;
+    background-color: white;
+}
+img{
+    width: 359px;
+    height: 200.52px;
+    padding-top: 14px;
+    padding-left: 9px;
+}
+input{
+    border: 1px solid;
+    width: 315px; 
+   height: 45px;
+  margin-left: 25px;
+  margin-top: 5px;
+  padding-left: 10px;
+  border-radius: 10px;
+   border-color: #f4b4b46f;
+margin-left: 25px;
+
+}
+@font-face {
+    font-family: mob;
+    src: url(Inter-VariableFont_slnt\,wght.ttf);
+}
+.omn{
+margin-left: 25px;
+color: #616161;
+font-family: mob;
+}
+.dopel{
+margin-left: 25px;
+color: #616161;
+font-family: mob;
+}
+.dayz{
+width: 315px;
+height: 45px;
+background-color: #6556cb;
+border: none;
+border-radius: 10px;
+color: white;
+margin-left: 25px;
